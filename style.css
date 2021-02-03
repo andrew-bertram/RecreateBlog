@@ -1,0 +1,49 @@
+body {
+    border: 20px solid #BDC3C7;
+    padding: 10px;
+    margin: 20px 100px;
+}
+h2 {
+    letter-spacing: 3.2px;
+    font-weight: 700;
+    font-size: 48px;
+    color: #3D3D3D;
+    font-family: 'Lato', sans-serif;
+    margin: 15px;
+    /* margin: auto; */
+    padding: 0;
+}
+p {
+    font-family: 'Lato', sans-serif;
+    /* font-weight: bold; */
+    margin: 0;
+    padding: 15px;
+}
+.date {
+    text-align: right;
+    color: #3498DB;
+    text-transform: uppercase;
+    padding: 0;
+}
+.content {
+    text-align: right;
+    border-bottom: 5px solid #BDC3C7;
+}
+#middle {
+    text-align: center;
+}
+#section-divider {
+    border-bottom: 10px solid #BDC3C7;
+}
+#bottom {
+    text-align: right;
+}
+
+/* BONUS */
+body {
+    border-radius: 10px;
+}
+h2:hover {
+    text-align: center;
+    letter-spacing: 20px;
+}
